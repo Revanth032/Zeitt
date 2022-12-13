@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Zeitt/static/css/main.1b10c252.css",
-    "main.js": "/Zeitt/static/js/main.af05546d.js",
+    "main.js": "/Zeitt/static/js/main.a5d5dfdd.js",
     "static/js/787.44f52ac2.chunk.js": "/Zeitt/static/js/787.44f52ac2.chunk.js",
     "index.html": "/Zeitt/index.html",
     "main.1b10c252.css.map": "/Zeitt/static/css/main.1b10c252.css.map",
-    "main.af05546d.js.map": "/Zeitt/static/js/main.af05546d.js.map",
+    "main.a5d5dfdd.js.map": "/Zeitt/static/js/main.a5d5dfdd.js.map",
     "787.44f52ac2.chunk.js.map": "/Zeitt/static/js/787.44f52ac2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b10c252.css",
-    "static/js/main.af05546d.js"
+    "static/js/main.a5d5dfdd.js"
   ]
 }
